@@ -1,7 +1,7 @@
-name = "helloworld"
+name = "greeter"
 type = "javascript"
 
-account_id = ""
+account_id = "06ba5c9dc3745e2579c46273ca0193da"
 workers_dev = true
 route = ""
 zone_id = ""
